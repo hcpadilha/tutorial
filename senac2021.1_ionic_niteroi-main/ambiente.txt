@@ -1,0 +1,16 @@
+Instalação do angular-cli (no terminal)
+npm install -g @angular/cli
+
+IDE para desenvolvimento (sugestão): Visual Studio Code
+
+Instalação do Typescript (no terminal)
+
+npm install typescript -g
+
+Caso você tenha problemas na execução dos comandos do npm ou do typescript, adicione a seguinte configuração na variável path:
+%AppData%\npm
+
+NODE_TLS_REJECT_UNAUTHORIZED=0
+
+
+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
